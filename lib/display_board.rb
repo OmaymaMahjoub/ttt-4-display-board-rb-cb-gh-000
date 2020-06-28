@@ -7,3 +7,4 @@ def display_board(array=[" "," "," "," "," "," "," "," "," "])
   puts" -----------"
   puts"  #{array[6]} | #{array[7]} | #{array[8]} "
 end
+display_board([" ", " ", " ", " ", "X", " ", " ", " ", " "])
